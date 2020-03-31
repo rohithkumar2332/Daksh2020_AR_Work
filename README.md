@@ -1,5 +1,5 @@
 # Daksh2020_AR_Work
-Daksh AR Project developed by DSC-SASTRA University
+Daksh AR Project developed by DSC-SASTRA University.
 We, DSC Sastra Deemed To Be University, the AR-VR cluster have made a cool VR project of a roller coaster ride and a face filter as contribution by the AR team for our university's Inter-college Techno-Management fest DAKSH.
 The most commonly used use-case of AR is face filters. We have made a filter that'll split open our face into 4 parts, on detecting the opening of mouth. The face cuts into four parts and moves to different directions, and the user could see the DAKSH logo, thus marketing the fest. We used SparkAR software to build this AR filter and thus, we could publish this effect in the social media platform either Facebook or Instagram.
 So for the AR filter, we used patch editor to detect opening of mouth and patched the animation for movement. We made use of 5 face meshes, 4 for the moving parts and one for the base logo displaying.
